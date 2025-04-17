@@ -1,0 +1,26 @@
+[
+  {
+    "email": "lead_ridho@gmail.com",
+    "password": "1234567890",
+    "username": "lead_ridho",
+    "role": "Lead",
+    "createdAt": "2025-04-17T00:00:00.000Z",
+    "updatedAt": "2025-04-17T00:00:00.000Z"
+  },
+  {
+    "email": "team_ihsan@gmail.com",
+    "password": "1234567890",
+    "username": "team_ihsan",
+    "role": "Team",
+    "createdAt": "2025-04-17T00:00:00.000Z",
+    "updatedAt": "2025-04-17T00:00:00.000Z"
+  },
+  {
+    "email": "team2_ihsan@gmail.com",
+    "password": "1234567890",
+    "username": "team_ihsan2",
+    "role": "Team",
+    "createdAt": "2025-04-17T00:00:00.000Z",
+    "updatedAt": "2025-04-17T00:00:00.000Z"
+  }
+]

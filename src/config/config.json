@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "TEST_FE_IHSANSOLUSI",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "TEST_FE_IHSANSOLUSI_TEST",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "TEST_FE_IHSANSOLUSI_PROD",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

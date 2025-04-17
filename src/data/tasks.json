@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Task 1",
+    "description": "This is the first task.",
+    "status": "Not Started",
+    "TeamId": 2,
+    "LeadId": 1,
+    "createdAt": "2025-04-17T00:00:00.000Z",
+    "updatedAt": "2025-04-17T00:00:00.000Z"
+  },
+  {
+    "title": "Task 2",
+    "description": "This is the second task.",
+    "status": "On Progress",
+    "TeamId": 3,
+    "LeadId": 1,
+    "createdAt": "2025-04-17T00:00:00.000Z",
+    "updatedAt": "2025-04-17T00:00:00.000Z"
+  },
+  {
+    "title": "Task 3",
+    "description": "This is the third task.",
+    "status": "Done",
+    "TeamId": 2,
+    "LeadId": 1,
+    "createdAt": "2025-04-17T00:00:00.000Z",
+    "updatedAt": "2025-04-17T00:00:00.000Z"
+  }
+]
